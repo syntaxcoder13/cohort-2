@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+@font-face {
+    font-family: font1;
+    src: url(arial);
+}
+#div1{
+    background-color: #162B45;
+    color: white;
+    height: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div2{
+    color: black;
+    background-color: white;
+    height: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#div3{
+    background-color: #D9ECFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 150px;
+}
+.div3{
+    background-color: white;
+}
+#div4{
+    background-color: rgb(246, 246, 124);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 200px;
+}
+#div5{
+    background-color: #E6DCFA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 150px;
+}
+#div6{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 150px;
+}
+#div7{
+    background-color: #162B45;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 10+0px;
+}
